@@ -10,4 +10,7 @@
 pip install -r requirements.txt
 ```
 
-## loss: 0.0011 - accuracy: 0.9917
+|          | train  |    test    |
+| -------- | ------ | ---------- |
+| loss     | 0.0011 | 1.4044e-04 |
+| accuracy | 0.9917 |   1.0000   |
